@@ -19,7 +19,7 @@ Next week I will finish up with Project 1 and go to the lab session on monday to
 
 Pick-Of-The-Week :
 
-Learning about github pages and jerkyll was my pick-of-the-week. It was very intresting to read about it learn how it works. I will definitely recommend it to others.
+Learning about github pages and jekyll was my pick-of-the-week. It was very intresting to read about it learn how it works. I will definitely recommend it to others.
 
 My first week in software engineering was great!!!!
 
