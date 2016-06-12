@@ -5,8 +5,22 @@ title: Week 1
 
 I survived the first week of CS 373: Software engineering!!
 
-Professor Downing is by far one of the best Professor . He definitely knows what he is talking about. On the first day of class we simply went over the class syllabus and we started working on hello.py. So far I like the dynamic of the class. He has a google doc where he write down all the main points and it is really helpful because you dont need to write it down because you will have access to it after. Also electronic devices are not allowed in his class; I think this is to help the students focus on what he is teaching. We have short quizes during the start of every lecture. I did not do well on the first quiz but I got good scores on the other ones. To have a good grade in the quizes, you have to read the assigned book chapters and review what we did during the previous lecture. Our first Programming assignment is next week tuesday and Professor Downing took about 40 minutes during one of the lectures to explain the project in detail to us. This was very helpful because it gave us a good idea of what we are expected to do.
+What did I do this Past Week :
 
-My first week in software engineering was great.
+Professor Downing is an excellent professor who is very knowlegeable in the course he is teaching. On the first day of class we simply went over the class syllabus and we started working on hello.py. We later on learned about assertions, unit test and acceptance test, operators in python and exceptions. So far I like the dynamic of the class. He has a google doc where he write down all the main points and it is really helpful because you do not need to write it down because you will have access to it after. Also, electronic devices are not allowed in this class. I noticed that by not using any electronic device, I pay more attention and hence have a better undertstanding of the class lecture. We have short quizes during the start of every lecture. I did not do well on the first quiz because I did not prepare well for it. After seeing my grade on my first quiz I studied hard for the other ones and I got good grades in them. To have a good grade in the quizes, you have to read the assigned book chapters and review what was done during the previous lecture. Our first Programming assignment is due next week tuesday and Professor Downing took about 40 minutes during one of the lectures to explain the project in detail to us. This was very helpful because it gave me a good idea of what I was expected to do.
+
+What's in my way :
+
+Currently I will say that I am doing okay in the class and I am not falling behind. This is because I study at least for 2hours everyday. I would have loved to put in more time but I am taking two other summer classes in addition to cs 373. I am taking computer security and I am doing an independent research(cs 370) with Professor Gouda. I hope my grades continue to be good in this class.
+
+What I do next week :
+
+Next week I will finish up with Project 1 and go to the lab session on monday to ask for clarifications on the project. I will also read the assigned chapters since some quiz questions come from there.
+
+Pick-Of-The-Week :
+
+Learning about github pages and jerkyll was my pick-of-the-week. It was very intresting to read about it learn how it works. I will definitely recommend it to others.
+
+My first week in software engineering was great!!!!
 
 
