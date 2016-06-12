@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1
+title: Week 1 ( 6 June - 12 June )
 ---
 
 I survived the first week of CS 373: Software engineering!!
@@ -13,7 +13,7 @@ What's in my way :
 
 Currently I will say that I am doing okay in the class and I am not falling behind. This is because I study at least for 2hours everyday. I would have loved to put in more time but I am taking two other summer classes in addition to cs 373. I am taking computer security and I am doing an independent research(cs 370) with Professor Gouda. I hope my grades continue to be good in this class.
 
-What I do next week :
+What I will do next week :
 
 Next week I will finish up with Project 1 and go to the lab session on monday to ask for clarifications on the project. I will also read the assigned chapters since some quiz questions come from there.
 
